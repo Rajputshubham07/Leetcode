@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rajputshubham07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rajputshubham07/Leetcode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajputshubham07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Rajputshubham07/Leetcode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
