@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajputshubham07/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Rajputshubham07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Rajputshubham07/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajputshubham07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rajputshubham07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajputshubham07/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Rajputshubham07/Leetcode/tree/master/0319-bulb-switcher) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rajputshubham07/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
