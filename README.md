@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rajputshubham07/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Rajputshubham07/Leetcode/tree/master/1518-water-bottles) |
+| [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Rajputshubham07/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
