@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rajputshubham07/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
 |  |
