@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Rajputshubham07/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
