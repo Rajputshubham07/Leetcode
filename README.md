@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rajputshubham07/Leetcode/tree/master/0020-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Increasing Subsequence
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rajputshubham07/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Rajputshubham07/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
