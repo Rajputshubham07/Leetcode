@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajputshubham07/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Rajputshubham07/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Rajputshubham07/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajputshubham07/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajputshubham07/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Rajputshubham07/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
