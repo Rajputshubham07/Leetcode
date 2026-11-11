@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rajputshubham07/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1518-water-bottles](https://github.com/Rajputshubham07/Leetcode/tree/master/1518-water-bottles) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rajputshubham07/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Rajputshubham07/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rajputshubham07/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rajputshubham07/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Rajputshubham07/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Rajputshubham07/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
 |  |
 | ------- |
